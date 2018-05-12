@@ -1,0 +1,30 @@
+_repo: Selections-From-the-Writings-of-the-B-b_18828
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bab, `Ali Muhammad Shirazi
+    alias: Báb
+    birthdate: 1819
+    deathdate: 1850
+    gutenberg_agent_id: '8279'
+    url: http://www.gutenberg.org/2009/agents/8279
+    wikipedia: http://en.wikipedia.org/wiki/B%C3%A1b
+description: ''
+gutenberg_bookshelf: Bahá'í Faith
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18828'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Babism'
+- !lcc 'BP'
+- !lcsh 'Bahai Faith'
+title: Selections From the Writings of the Báb
+url: http://www.gutenberg.org/ebooks/18828
