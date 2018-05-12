@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8279
     wikipedia: http://en.wikipedia.org/wiki/B%C3%A1b
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18828#Selections-From-the-Writings-of-the-B-b
 gutenberg_bookshelf: Bahá'í Faith
 gutenberg_issued: '2006-06-15'
 gutenberg_type: Text
